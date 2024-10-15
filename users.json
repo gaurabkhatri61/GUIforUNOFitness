@@ -1,0 +1,51 @@
+{
+    "Gaurab Khatri": {
+        "password": "gaurab123",
+        "plan": "Beginner",
+        "sauna_sessions": 3,
+        "swimming_sessions": 1,
+        "coaching_hours": 2
+    },
+    "Ram Kumar": {
+        "password": "ram123",
+        "plan": "Beginner",
+        "sauna_sessions": 2,
+        "swimming_sessions": 1,
+        "coaching_hours": 3
+    },
+    "Saurab Thapa": {
+        "password": "saurab123",
+        "plan": "Intermediate",
+        "sauna_sessions": 2,
+        "swimming_sessions": 1,
+        "coaching_hours": 4
+    },
+    "Ram Prasad": {
+        "password": "123",
+        "plan": "Beginner",
+        "sauna_sessions": 2,
+        "swimming_sessions": 4,
+        "coaching_hours": 1
+    },
+    "Hari Prasad": {
+        "password": "hari123",
+        "plan": "Intermediate",
+        "sauna_sessions": 1,
+        "swimming_sessions": 4,
+        "coaching_hours": 7
+    },
+    "shyam ": {
+        "password": "12345",
+        "plan": "Beginner",
+        "sauna_sessions": 2,
+        "swimming_sessions": 1,
+        "coaching_hours": 2
+    },
+    "rehan": {
+        "password": "rehan123",
+        "plan": "Beginner",
+        "sauna_sessions": 4,
+        "swimming_sessions": 3,
+        "coaching_hours": 1
+    }
+}
